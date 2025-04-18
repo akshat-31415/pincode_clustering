@@ -7,13 +7,13 @@ This project applies **K-Means clustering from scratch** to analyze the spatial 
 
 ## 📦 Dataset
 
-- **Source:** `clustering_data.csv`
+- **Source:** `clustering_data.csv`, `geoBoundaries-IND-ADM1.geojson`,`india_state.json`
 - **Contents:** Indian pincodes along with their **latitude**, **longitude**, and **state**.
 - **Filtering:** Only entries belonging to **Maharashtra** are used in the clustering.
 
 
 - **Steps:**
-  1. Download the files from this repo.
+  1. Download the files from this drive link: https://drive.google.com/drive/folders/1U6bgws82QEXnYZCwQPWvhtP2R6fv8eox?usp=drive_link
   2. Place it in the root directory of this project.
 
 ---
